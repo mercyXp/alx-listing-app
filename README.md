@@ -66,6 +66,10 @@ alx-listing-app
 - `tailwind.config.js`
 - `globals.css`
 
+Run this command:
+```
+npx create-next-app@latest alx-listing-app --typescript --tailwind --eslint --no-app-router --no-src-dir
+```
 ---
 
 ### 2. Folder Structure and Reusability
