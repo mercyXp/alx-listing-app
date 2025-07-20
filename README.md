@@ -120,7 +120,7 @@ This ensures clean and centralized access for all assets.
 
 ## 🎨 From Figma Mockup
 
-You will build and style components based on a provided **Figma design** (not included in this doc).
+You will build and style components based on a provided **Figma design** [here]("https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb").
 
 ---
 
